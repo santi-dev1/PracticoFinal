@@ -1,0 +1,32 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Pedro",
+            "email": "pedro@example.com",
+            "contact": "299567432",
+            "gender": "hombre"
+        },
+        {
+            "id": 2,
+            "name": "test",
+            "email": "test@example.com",
+            "contact": "299478437",
+            "gender": "hombre"
+        },
+        {
+            "id": 3,
+            "name": "test2",
+            "email": "test2@example.com",
+            "contact": "299768908",
+            "gender": "mujer"
+        },
+        {
+            "id": 4,
+            "name": "Franco",
+            "email": "franco@example.com",
+            "contact": "299892739",
+            "gender": "hombre"
+        }
+    ]
+}
