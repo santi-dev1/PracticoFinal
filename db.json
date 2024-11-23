@@ -1,32 +1,39 @@
 {
-    "user": [
-        {
-            "id": 1,
-            "name": "Pedro",
-            "email": "pedro@example.com",
-            "contact": "299567432",
-            "gender": "hombre"
-        },
-        {
-            "id": 2,
-            "name": "test",
-            "email": "test@example.com",
-            "contact": "299478437",
-            "gender": "hombre"
-        },
-        {
-            "id": 3,
-            "name": "test2",
-            "email": "test2@example.com",
-            "contact": "299768908",
-            "gender": "mujer"
-        },
-        {
-            "id": 4,
-            "name": "Franco",
-            "email": "franco@example.com",
-            "contact": "299892739",
-            "gender": "hombre"
-        }
-    ]
+  "user": [
+    {
+      "id": "2",
+      "name": "Pablo",
+      "email": "pablo@example.com",
+      "contact": "299478437",
+      "gender": "hombre"
+    },
+    {
+      "id": "4",
+      "name": "Lucia",
+      "email": "lucia@example.com",
+      "contact": "2995156659",
+      "gender": "mujer"
+    },
+    {
+      "name": "Sofia",
+      "email": "sofia@gmail.com",
+      "contact": "2996489933",
+      "gender": "mujer",
+      "id": "c5ff"
+    },
+    {
+      "name": "Lucas",
+      "email": "lucas@inauco.com",
+      "contact": "2995156654",
+      "gender": "hombre",
+      "id": "c67f"
+    },
+    {
+      "name": "Eduardo",
+      "email": "edu@gmail.com",
+      "contact": "737376662",
+      "gender": "hombre",
+      "id": "e927"
+    }
+  ]
 }
